@@ -1,2 +1,0 @@
-# daystogo
-DaysToGo
